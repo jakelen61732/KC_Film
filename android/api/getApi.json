@@ -5,73 +5,85 @@
       "Name": "Server 01 (Auto Resume)",
       "Api": "https://vidlink.pro/movie/{TMDB_ID}?primaryColor=0ead00&secondaryColor=00ad4e&iconColor=0ead00&autoplay=false",
       "Embed": false,
-      "Wide": false
+      "Wide": false,
+      "useAdBlocker": false
     },
     {
       "Name": "Server 02 (Auto Resume)",
       "Api": "https://vidsrc.cc/v2/embed/movie/{TMDB_ID}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,      
+      "useAdBlocker": false
     },
     {
       "Name": "Server 03",
       "Api": "https://vidsrc.rip/embed/movie/{TMDB_ID}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,      
+      "useAdBlocker": false
     },
     {
       "Name": "Server 01 - EN/IN (Auto Resume)",
       "Api": "https://player.autoembed.cc/embed/movie/{TMDB_ID}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,     
+      "useAdBlocker": false
     },
     {
       "Name": "Server 02 - EN/IN",
       "Api": "https://player.vidsrc.nl/embed/movie/{TMDB_ID}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,     
+      "useAdBlocker": false
     },
     {
       "Name": "Server 01 - Multi (Auto Resume)",
       "Api": "https://ph.000.pe/web/player/player2.php?id={TMDB_ID}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,     
+      "useAdBlocker": false
     },
     {
       "Name": "Server 01 - PH",
       "Api": "https://streamug.com/video/{TMDB_ID}/",
       "Embed": false,
-      "Wide": false
+      "Wide": false,     
+      "useAdBlocker": false
     },
     {
       "Name": "Server 02 - PH (Auto Resume)",
       "Api": "https://moviehab.to/embed/{TMDB_ID}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,    
+      "useAdBlocker": false
     },
     {
       "Name": "KC Film Pro 01 - PH",
       "Api": "https://jalen1999.github.io/zmovies/tmdb/movie/{TMDB_ID}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,     
+      "useAdBlocker": false
     },
     {
       "Name": "KC Film Pro 02 - PH",
       "Api": "https://ph.000.pe/web/player1.php?tmdb_id={TMDB_ID}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,    
+      "useAdBlocker": false
     },
     {
       "Name": "KC Film Pro 03 (Auto Resume)",
       "Api": "https://ph.000.pe/web/player/player1.php?id={TMDB_ID}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,    
+      "useAdBlocker": false
     },
     {
       "Name": "For Anime Only (Auto Resume)",
       "Api": "https://gogoanime3.co/{NAME}-episode-{E}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,       
+      "useAdBlocker": false
     }
   ],
   "embed_tv": [
@@ -79,73 +91,84 @@
       "Name": "Server 01 (Auto Resume)",
       "Api": "https://vidlink.pro/tv/{TMDB_ID}/{S}/{E}?nextbutton=true&primaryColor=0ead00&secondaryColor=00ad4e&iconColor=0ead00&autoplay=false",
       "Embed": false,
-      "Wide": false
+      "Wide": false,       
+      "useAdBlocker": false
     },
     {
       "Name": "Server 02 (Auto Resume)",
       "Api": "https://vidsrc.cc/v2/embed/tv/{TMDB_ID}/{S}/{E}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,      
+      "useAdBlocker": false
     },
     {
       "Name": "Server 03",
       "Api": "https://vidsrc.rip/embed/tv/{TMDB_ID}/{S}/{E}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,     
+      "useAdBlocker": false
     },
     {
       "Name": "Server 01 - EN/IN (Auto Resume)",
       "Api": "https://player.autoembed.cc/embed/tv/{TMDB_ID}/{S}/{E}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,       "useAdBlocker": false
     },
     {
       "Name": "Server 02 - EN/IN",
       "Api": "https://player.vidsrc.nl/embed/tv/{TMDB_ID}/{S}/{E}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,     
+      "useAdBlocker": false
     },
     {
       "Name": "Server 01 - Multi (Auto Resume)",
       "Api": "https://ph.000.pe/web/player/player2.php?id={TMDB_ID}&s={S}&e={E}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,    
+      "useAdBlocker": false
     },
     {
       "Name": "Server 01 - PH",
       "Api": "https://streamug.com/video/{TMDB_ID}s{S}e{E}/",
       "Embed": false,
-      "Wide": false
+      "Wide": false,      
+      "useAdBlocker": false
     },
     {
       "Name": "Server 02 - PH (Auto Resume)",
       "Api": "https://moviehab.to/embed/{TMDB_ID}/{S}/{E}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,    
+      "useAdBlocker": false
     },
     {
       "Name": "KC Film Pro 01 - PH",
       "Api": "https://jalen1999.github.io/zmovies/tmdb/tv/{TMDB_ID}s{S}e{E}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,    
+      "useAdBlocker": false
     },
     {
       "Name": "KC Film Pro 02 - PH",
       "Api": "https://ph.000.pe/web/player1.php?tmdb_id={TMDB_ID}&season_number={S}&episode_number={E}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,     
+      "useAdBlocker": false
     },
     {
       "Name": "KC Film Pro 03 (Auto Resume)",
       "Api": "https://ph.000.pe/web/player/player1.php?id={TMDB_ID}&s={S}&e={E}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,    
+      "useAdBlocker": false
     },
     {
       "Name": "For Anime Only (Auto Resume)",
       "Api": "https://gogoanime3.co/{NAME}-episode-{E}",
       "Embed": false,
-      "Wide": false
+      "Wide": false,  
+      "useAdBlocker": false
     }
   ]
 }
