@@ -8,7 +8,6 @@
    "remoteImageUrl": "https://ph.000.pe/images/img_splash.png",
    "tmdbApiKey": "V1ZSTk5FOVVWVEpQUjFFMFQxZFZlbHBYV1RGYVYwNXJUV3BWZWxwWFdUVmFWRWsxVFdwck5WcEhUVDA9",
    "detectors": ".m3u8/.mp4/.mkv/.video-delivery.net/.cloudflarestorage.com/.stream3u8.com",
-   "adBlockFilter": "https://ph.000.pe/android/api/adBlockFilter.txt",
    "overrideUrl": "hexplorer.net/streambucket/streamug/games.cdn.famobi.com",
    "rewardedAdType": 0,
    "app_ad_id": "ca-app-pub-1933511175923499~5335960536",
