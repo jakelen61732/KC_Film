@@ -4,6 +4,7 @@
    "isProtected": true,
    "maintenanceMode": false,
    "directWatch": true,
+   "hideButton": false,
    "API":"https://ph.000.pe/download.html",
    "remoteImageUrl": "https://ph.000.pe/images/img_splash.png",
    "tmdbApiKey": "V1ZSTk5FOVVWVEpQUjFFMFQxZFZlbHBYV1RGYVYwNXJUV3BWZWxwWFdUVmFWRWsxVFdwck5WcEhUVDA9",
