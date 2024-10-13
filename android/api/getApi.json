@@ -45,7 +45,7 @@
       },
       {
          "Name": "Server 01 - PH",
-         "Api": "https://streamug.com/video/{TMDB_ID}/",
+         "Api": "https://kubowebhost.com/video/{TMDB_ID}/",
          "Embed": false,
          "Wide": false,
          "useAdBlocker": true
@@ -131,7 +131,7 @@
       },
       {
          "Name": "Server 01 - PH",
-         "Api": "https://streamug.com/video/{TMDB_ID}s{S}e{E}/",
+         "Api": "https://kubowebhost.com/video/{TMDB_ID}s{S}e{E}/",
          "Embed": false,
          "Wide": false,
          "useAdBlocker": true
