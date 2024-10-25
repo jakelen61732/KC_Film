@@ -3,7 +3,7 @@
    "embed_movie": [
       {
          "Name": "Server 01 (Auto Resume)",
-         "Api": "https://vidlink.pro/movie/{TMDB_ID}?primaryColor=0ead00&secondaryColor=00ad4e&iconColor=0ead00&autoplay=false",
+         "Api": "https://vidlink.pro/movie/{TMDB_ID}?primaryColor=0ead00&secondaryColor=00ad4e&iconColor=0ead00&autoplay=true",
          "Embed": false,
          "Wide": false,
          "useAdBlocker": true
@@ -89,7 +89,7 @@
    "embed_tv": [
       {
          "Name": "Server 01 (Auto Resume)",
-         "Api": "https://vidlink.pro/tv/{TMDB_ID}/{S}/{E}?nextbutton=true&primaryColor=0ead00&secondaryColor=00ad4e&iconColor=0ead00&autoplay=false",
+         "Api": "https://vidlink.pro/tv/{TMDB_ID}/{S}/{E}?nextbutton=true&primaryColor=0ead00&secondaryColor=00ad4e&iconColor=0ead00&autoplay=true",
          "Embed": false,
          "Wide": false,
          "useAdBlocker": true
