@@ -9,7 +9,7 @@
    "maintenanceModeUrl":"https://ph.000.pe/maintenance-mode.html",
    "tmdbApiKey": "V1ZSTk5FOVVWVEpQUjFFMFQxZFZlbHBYV1RGYVYwNXJUV3BWZWxwWFdUVmFWRWsxVFdwck5WcEhUVDA9",
    "detectors": ".m3u8/.mp4/.mkv/.video-delivery.net/.cloudflarestorage.com/.stream3u8.com",
-   "overrideUrl": "hexplorer.net/streambucket/streamug/games.cdn.famobi.com",
+   "overrideUrl": "ph.000.pe/streambucket/streamug.pro/games.cdn.famobi.com",
    "rewardedAdType": 0,
    "app_ad_id": "ca-app-pub-3940256099942544~3347511713",
    "app_open_ad_id": "ca-app-pub-3940256099942544/9257395921",
