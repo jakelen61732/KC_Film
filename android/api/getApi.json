@@ -73,7 +73,7 @@
       },
       {
          "Name": "KC Film Pro 03 (Auto Resume)",
-         "Api": "https://ph.000.pe/web/player/player1.php?id={TMDB_ID}",
+         "Api": "https://ph.000.pe/web/player2.php?id={TMDB_ID}&type=movie",
          "Embed": false,
          "Wide": false,
          "useAdBlocker": true
@@ -159,7 +159,7 @@
       },
       {
          "Name": "KC Film Pro 03 (Auto Resume)",
-         "Api": "https://ph.000.pe/web/player/player1.php?id={TMDB_ID}&s={S}&e={E}",
+         "Api": "https://ph.000.pe/web/player2.php?id={TMDB_ID}&s={S}&e={E}&type=tv",
          "Embed": false,
          "Wide": false,
          "useAdBlocker": true
