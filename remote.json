@@ -1,4 +1,8 @@
 {
   "SERVER_URL":"https://ersvpn.online/",
-  "STREAM_URL":"https://erwanvpn.fun/"
+  "STREAM_URL":"https://erwanvpn.fun/",
+  "title":"New Update Available",
+  "message":"Please Update The App!",
+  "link":"",
+  "versionName":"1.0"
 }
