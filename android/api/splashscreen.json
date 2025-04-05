@@ -1,11 +1,9 @@
 {
-   "version": "0.0.4",
    "allowedUseDev": true,
    "isProtected": true,
    "maintenanceMode": false,
    "directWatch": true,
    "hideButton": false,
-   "newAppUpdateUrl":"https://ph.000.pe/download.html",
    "maintenanceModeUrl":"https://ph.000.pe/maintenance-mode.html",
    "tmdbApiKey": "V1ZSTk5FOVVWVEpQUjFFMFQxZFZlbHBYV1RGYVYwNXJUV3BWZWxwWFdUVmFWRWsxVFdwck5WcEhUVDA9",
    "detectors": ".m3u8/.mp4/.mkv/.video-delivery.net/.cloudflarestorage.com/.stream3u8.com",
